@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE / editor files
+.idea/
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local generated artifacts
+classifier.xml
+Dilkhush.csv
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Images / bulky local data committed for demo only; regenerated locally
+data/
+college_images/
+images/
